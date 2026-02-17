@@ -38,19 +38,21 @@ I am a passionate **MERN Stack Developer** from Bangladesh, dedicated to buildin
 ---
 
 ### 📊 My GitHub Metrics:
-
+<!-- সমাধানকৃত অংশ ১: গিটহাব স্ট্যাটস কার্ড -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadim-593&show_icons=true&locale=en&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" alt="Nadim's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nadim-593&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false&cache_seconds=1800" alt="Nadim's GitHub Stats" height="170" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nadim-593&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false&langs_count=8" alt="Nadim's Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadim-593&layout=compact&langs_count=8&theme=dracula&hide_border=false&cache_seconds=1800" alt="Nadim's Top Languages" height="170" />
 </p>
 
+<!-- সমাধানকৃত অংশ ২: স্ট্রিক কার্ড (বিকল্প হিসেবে) -->
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadim-593&theme=dracula&hide_border=false" alt="Nadim's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadim-593&theme=dracula&hide_border=false" alt="Nadim's Streak" width="80%" />
 </p>
 
+<!-- সমাধানকৃত অংশ ৩: অ্যাক্টিভিটি গ্রাফ -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadim-593&theme=dracula&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadim-593&theme=dracula&bg_color=00000000&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=false" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
